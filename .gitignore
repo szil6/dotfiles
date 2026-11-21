@@ -1,0 +1,5 @@
+*.o
+dwm
+st
+dmenu
+config.h
