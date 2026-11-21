@@ -1,5 +1,5 @@
 *.o
-dwm
-st
-dmenu
+src/dwm/dwm
+src/st/st
+src/dmenu/dmenu
 config.h
